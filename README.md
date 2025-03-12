@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BrodieCousins
 - 👀 I’m interested in tecnology and engineering
-- 🌱 I’m currently learning frontend web development with react :) I'm expeienced in backend development with a love for the Django framework.
+- 🌱 I’m currently learning frontend web development with react. I'm experienced in backend development with a love for the Django framework.
 - 📫 You can look at how to contact me in my profile.
 
 <!---
