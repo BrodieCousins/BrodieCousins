@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @BrodieCousins
-- 👀 I’m interested in tecnology and engineering
-- 🌱 I’m currently learning frontend web development with react. I'm experienced in backend development with a love for the Django framework.
-- 📫 You can look at how to contact me in my profile.
+- 📫 If you would like to contact me about an enquiry, please do so through my email: personal@brodiecousins.com
 
 <!---
 BrodieCousins/BrodieCousins is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
